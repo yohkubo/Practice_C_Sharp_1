@@ -1,0 +1,9 @@
+C:\Users\windows7\Desktop\Test_C#\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Desktop\Test_C#\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\windows7\Desktop\Test_C#\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll.config
+C:\Users\windows7\Desktop\Test_C#\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll
+C:\Users\windows7\Desktop\Test_C#\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.pdb
+C:\Users\windows7\Desktop\Test_C#\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\windows7\Desktop\Test_C#\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\windows7\Desktop\Test_C#\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.dll
+C:\Users\windows7\Desktop\Test_C#\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.pdb
