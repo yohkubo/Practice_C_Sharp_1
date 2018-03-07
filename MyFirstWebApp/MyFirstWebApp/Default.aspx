@@ -21,6 +21,10 @@
             <br />
             <br />
             <asp:Label ID="resultLabel" runat="server"></asp:Label>
+            <br />
+            <br />
+            <asp:TextBox ID="inputTextBox" runat="server"></asp:TextBox>
+            <br />
         </div>
     </form>
 </body>
